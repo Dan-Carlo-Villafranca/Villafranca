@@ -9,8 +9,8 @@ package sampleapp;
  *
  * @author PC3
  */
-public class Act2 {
+public class Act3 {
     public static void main(String[] args) {
-        System.out.println("ACT 2");
+        System.out.println("Hello, World!");
     }
 }

@@ -1,5 +1,4 @@
 package airfare;
-
 import java.util.Scanner;
 
 public class Airfare {
